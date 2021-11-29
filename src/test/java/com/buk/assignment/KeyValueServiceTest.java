@@ -1,6 +1,6 @@
-package com.bukukas.assignment;
+package com.buk.assignment;
 
-import com.bukukas.assignment.service.KeyValueService;
+import com.buk.assignment.service.KeyValueService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

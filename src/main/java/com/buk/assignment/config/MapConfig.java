@@ -1,4 +1,4 @@
-package com.bukukas.assignment.config;
+package com.buk.assignment.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

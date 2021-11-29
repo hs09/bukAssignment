@@ -1,7 +1,7 @@
-package com.bukukas.assignment;
+package com.buk.assignment;
 
-import com.bukukas.assignment.service.KeyValue;
-import com.bukukas.assignment.service.KeyValueService;
+import com.buk.assignment.service.KeyValue;
+import com.buk.assignment.service.KeyValueService;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;

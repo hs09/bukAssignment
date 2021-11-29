@@ -1,4 +1,4 @@
-package com.bukukas.assignment;
+package com.buk.assignment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

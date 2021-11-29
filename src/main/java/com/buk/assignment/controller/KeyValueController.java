@@ -1,7 +1,7 @@
-package com.bukukas.assignment.controller;
+package com.buk.assignment.controller;
 
-import com.bukukas.assignment.service.KeyValue;
-import com.bukukas.assignment.service.KeyValueService;
+import com.buk.assignment.service.KeyValue;
+import com.buk.assignment.service.KeyValueService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.bukukas.assignment.service;
+package com.buk.assignment.service;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

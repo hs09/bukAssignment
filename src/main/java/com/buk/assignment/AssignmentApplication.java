@@ -1,4 +1,4 @@
-package com.bukukas.assignment;
+package com.buk.assignment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
